@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://github.com/Aditya-Maurya-101.png?size=220" alt="Aditya Maurya" width="180" style="border-radius:50%;" />
-</p>
-
 <h1 align="center">
   Hey, I'm <b>Aditya Maurya</b> <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30" alt="Hi"/>
 </h1>
