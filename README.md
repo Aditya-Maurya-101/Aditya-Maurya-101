@@ -182,11 +182,18 @@
 
 <div align="center">
   <h3>📈 GitHub Statistics</h3>
-  <img height="200px" src="https://github-readme-stats.vercel.app/api?username=Aditya-Maurya-101&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&bg_color=0d1117&text_color=ffffff&border_color=30363d" alt="GitHub Stats" />
+  <a href="https://github.com/Aditya-Maurya-101">
+    <img height="200px" src="https://github-readme-stats.vercel.app/api?username=Aditya-Maurya-101&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&bg_color=0d1117&text_color=ffffff&border_color=30363d&locale=en" alt="GitHub Stats" />
+  </a>
 </div>
 
+---
+
 <div align="center">
-  <img height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aditya-Maurya-101&layout=compact&theme=tokyonight&bg_color=0d1117&text_color=ffffff&border_color=30363d" alt="Top Languages" />
+  <h3>💻 Top Languages</h3>
+  <a href="https://github.com/Aditya-Maurya-101">
+    <img height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aditya-Maurya-101&layout=compact&theme=tokyonight&bg_color=0d1117&text_color=ffffff&border_color=30363d&langs_count=10" alt="Top Languages" />
+  </a>
 </div>
 
 ---
@@ -200,14 +207,14 @@
 
 <div align="center">
   <h3>🏆 GitHub Achievements</h3>
-  <img src="https://github-profile-trophy.vercel.app/?username=Aditya-Maurya-101&theme=tokyonight&no-frame=true&row=2&column=4&margin-w=15&margin-h=15" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Aditya-Maurya-101&theme=tokyonight&no-frame=false&row=2&column=4&margin-w=15&margin-h=15" alt="GitHub Trophies" />
 </div>
 
 ---
 
 <div align="center">
   <h3>📊 Contribution Graph</h3>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Aditya-Maurya-101&theme=tokyo-night&hide_border=true&area=true&color=61dafb&bg_color=0d1117&line=ff69b4&point=ffb6c1" alt="GitHub Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Aditya-Maurya-101&theme=tokyo-night&hide_border=false&area=true&color=61dafb&bg_color=0d1117&line=ff69b4&point=ffb6c1" alt="GitHub Activity Graph" />
 </div>
 
 ---
