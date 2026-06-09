@@ -1,4 +1,4 @@
-<h1 align="center">
+ <h1 align="center">
   Hey, I'm <b>Aditya Maurya</b> <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30" alt="Hi"/>
 </h1>
 
@@ -113,34 +113,34 @@
 
 ---
 
-## 📊 GitHub Stats & Activity
+## 📊 GitHub Stats & Analytics
 
+### 📈 Performance Metrics
 <div align="center">
   <a href="https://github.com/Aditya-Maurya-101">
     <img height="200px" src="https://github-readme-stats.vercel.app/api?username=Aditya-Maurya-101&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&bg_color=0d1117&text_color=ffffff&border_color=30363d&locale=en" alt="GitHub Stats" />
   </a>
+  <a href="https://github.com/Aditya-Maurya-101">
+    <img height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aditya-Maurya-101&layout=compact&theme=tokyonight&bg_color=0d1117&text_color=ffffff&border_color=30363d" alt="Top Languages" />
+  </a>
 </div>
 
----
-
+### 🔥 Contribution Streak
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=Aditya-Maurya-101&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D&background=0d1117&stroke=30363d&fire=ff69b4&currStreakNum=58edb1&sideNums=58edb1&sideLabels=ffffff&dates=ffffff" alt="GitHub Streak Stats" />
 </div>
 
----
-
+### 🏆 Achievements & Trophies
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Aditya-Maurya-101&theme=tokyonight&no-frame=false&row=2&column=4&margin-w=15&margin-h=15" alt="GitHub Trophies" />
 </div>
 
----
-
+### 📅 Activity Graph & Contribution Timeline
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Aditya-Maurya-101&theme=tokyo-night&hide_border=false&area=true&color=61dafb&bg_color=0d1117&line=ff69b4&point=ffb6c1" alt="GitHub Activity Graph" />
 </div>
 
----
-
+### 🐍 Contribution Snake Animation
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Aditya-Maurya-101/Aditya-Maurya-101/output/github-contribution-grid-snake-dark.svg" />
