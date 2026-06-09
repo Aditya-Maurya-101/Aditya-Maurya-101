@@ -1,160 +1,51 @@
- <h1 align="center">
-  Hey, I'm <b>Aditya Maurya</b> <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30" alt="Hi"/>
-</h1>
+# 💫 Hi 👋, I'm Imran Alam
+**A passionate Cloud Engineer || DevOps Engineer || Kafka Admin from India**
 
-<p align="center">🚀 Software Engineer | Full Stack Developer | MERN Stack Specialist</p>
+Email Me 👉 ✉️ **alamimran613@live.com** For Collaboration/Project or Anything Else. 😊😊
 
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=00F7FF&center=true&vCenter=true&width=780&lines=Building+Modern+Web+Applications;Designing+Fast+and+Reliable+APIs;Learning+AI+%26+System+Design;Sharing+Code+and+Innovating+Daily" alt="Typing SVG" />
-</div>
+- 🔭 **I’m currently working on:** Enter your project info here
+- 🌱 **I’m currently learning:** Enter your tech here
+- 👯 **I’m looking to collaborate on:** Enter your project name and info
+- 🤔 **I’m looking for help with:** Your project here
+- 💬 **Ask me about:** Collaboration, Tech Support
+- 📫 **How to reach me:** Enter your email here
+- 😄 **Pronouns:** Imran Sir
+- ⚡ **Fun fact:** I Love Tech and Tech Love Me
 
----
+## 🔗 I am a Content Creator. 😊😊
 
-## 👨‍💻 About Me
+Stay updated with the latest tutorials and projects by subscribing to my YouTube channel and following on Instagram, Facebook and Twitter.
 
-- 🎓 BCA Student with a strong track record (CGPA: 9.1)
-- 💻 Full Stack Developer working with MERN, Java, PHP, and Flutter
-- 🧠 Passionate about clean code, scalable architecture, and modern UI/UX
-- ⚡ I build responsive web apps, intuitive dashboards, and smart automation tools
-- 🌱 Currently exploring system design, cloud-native workflows, and AI-powered features
-- 🎯 Goal: Become a high-impact software engineer with global-ready products
+[![Techno Snag YouTube Channel](https://img.shields.io/badge/YouTube-Techno%20Snag-red?logo=youtube&logoColor=white)](https://www.youtube.com/technosnag) [![Techno Snag Instagram](https://img.shields.io/badge/Instagram-Techno%20Snag-pink?logo=instagram&logoColor=white)](https://www.instagram.com/technosnag) [![Techno Snag Facebook](https://img.shields.io/badge/Facebook-Techno%20Snag-blue?logo=facebook&logoColor=white)](https://www.facebook.com/technosnag) [![Techno Snag Twitter](https://img.shields.io/badge/Twitter-Techno%20Snag-lightblue?logo=twitter&logoColor=white)](https://twitter.com/technosnag)
 
----
+[![](https://visitcount.itsvg.in/api?id=alamimran613&icon=1&color=4)](https://visitcount.itsvg.in)
 
-## 🛠️ Tech & Tools
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=java,js,php,python,c,cpp,react,redux,nodejs,express,mongodb,mysql,firebase,tailwind,bootstrap,git,github" height="60" />
-</div>
-
----
-
-## 🌟 Core Strengths
-
-- ✅ MERN Stack development (React, Node.js, Express, MongoDB)
-- ✅ Dynamic user interfaces with Tailwind CSS and Bootstrap
-- ✅ REST API design, authentication, and deployment workflows
-- ✅ Problem solving with data structures, algorithms, and debugging
-- ✅ Rapid prototyping and polished UI delivery
-
----
-
-## 💻 Complete Skill Stack with Icons
-
-### 🔤 Programming Languages
-<div align="center">
-  <table>
-    <tr>
-      <td align="center" width="100"><img src="https://skillicons.dev/icons?i=java" width="65" alt="Java"/><br><b>Java</b></td>
-      <td align="center" width="100"><img src="https://skillicons.dev/icons?i=javascript" width="65" alt="JavaScript"/><br><b>JavaScript</b></td>
-      <td align="center" width="100"><img src="https://skillicons.dev/icons?i=php" width="65" alt="PHP"/><br><b>PHP</b></td>
-      <td align="center" width="100"><img src="https://skillicons.dev/icons?i=python" width="65" alt="Python"/><br><b>Python</b></td>
-      <td align="center" width="100"><img src="https://skillicons.dev/icons?i=c" width="65" alt="C"/><br><b>C</b></td>
-      <td align="center" width="100"><img src="https://skillicons.dev/icons?i=cpp" width="65" alt="C++"/><br><b>C++</b></td>
-    </tr>
-  </table>
-</div>
-
-### 🎨 Frontend Technologies
-<div align="center">
-  <table>
-    <tr>
-      <td align="center" width="100"><img src="https://skillicons.dev/icons?i=react" width="65" alt="React"/><br><b>React</b></td>
-      <td align="center" width="100"><img src="https://skillicons.dev/icons?i=nextjs" width="65" alt="Next.js"/><br><b>Next.js</b></td>
-      <td align="center" width="100"><img src="https://skillicons.dev/icons?i=redux" width="65" alt="Redux"/><br><b>Redux</b></td>
-      <td align="center" width="100"><img src="https://skillicons.dev/icons?i=tailwind" width="65" alt="Tailwind"/><br><b>Tailwind</b></td>
-      <td align="center" width="100"><img src="https://skillicons.dev/icons?i=bootstrap" width="65" alt="Bootstrap"/><br><b>Bootstrap</b></td>
-      <td align="center" width="100"><img src="https://skillicons.dev/icons?i=html" width="65" alt="HTML"/><br><b>HTML/CSS</b></td>
-    </tr>
-  </table>
-</div>
-
-### 🔧 Backend & Databases
-<div align="center">
-  <table>
-    <tr>
-      <td align="center" width="100"><img src="https://skillicons.dev/icons?i=nodejs" width="65" alt="Node.js"/><br><b>Node.js</b></td>
-      <td align="center" width="100"><img src="https://skillicons.dev/icons?i=express" width="65" alt="Express"/><br><b>Express</b></td>
-      <td align="center" width="100"><img src="https://skillicons.dev/icons?i=mongodb" width="65" alt="MongoDB"/><br><b>MongoDB</b></td>
-      <td align="center" width="100"><img src="https://skillicons.dev/icons?i=mysql" width="65" alt="MySQL"/><br><b>MySQL</b></td>
-      <td align="center" width="100"><img src="https://skillicons.dev/icons?i=firebase" width="65" alt="Firebase"/><br><b>Firebase</b></td>
-      <td align="center" width="100"><img src="https://skillicons.dev/icons?i=postgresql" width="65" alt="PostgreSQL"/><br><b>PostgreSQL</b></td>
-    </tr>
-  </table>
-</div>
-
-### 🛠️ Tools & DevOps
-<div align="center">
-  <table>
-    <tr>
-      <td align="center" width="100"><img src="https://skillicons.dev/icons?i=git" width="65" alt="Git"/><br><b>Git</b></td>
-      <td align="center" width="100"><img src="https://skillicons.dev/icons?i=github" width="65" alt="GitHub"/><br><b>GitHub</b></td>
-      <td align="center" width="100"><img src="https://skillicons.dev/icons?i=vscode" width="65" alt="VS Code"/><br><b>VS Code</b></td>
-      <td align="center" width="100"><img src="https://skillicons.dev/icons?i=docker" width="65" alt="Docker"/><br><b>Docker</b></td>
-      <td align="center" width="100"><img src="https://skillicons.dev/icons?i=linux" width="65" alt="Linux"/><br><b>Linux</b></td>
-      <td align="center" width="100"><img src="https://skillicons.dev/icons?i=bash" width="65" alt="Bash"/><br><b>Bash</b></td>
-    </tr>
-  </table>
-</div>
-
-### 📱 Mobile & Extra
-<div align="center">
-  <table>
-    <tr>
-      <td align="center" width="100"><img src="https://skillicons.dev/icons?i=flutter" width="65" alt="Flutter"/><br><b>Flutter</b></td>
-      <td align="center" width="100"><img src="https://skillicons.dev/icons?i=dart" width="65" alt="Dart"/><br><b>Dart</b></td>
-      <td align="center" width="100"><img src="https://skillicons.dev/icons?i=postman" width="65" alt="Postman"/><br><b>Postman</b></td>
-      <td align="center" width="100"><img src="https://skillicons.dev/icons?i=figma" width="65" alt="Figma"/><br><b>Figma</b></td>
-      <td align="center" width="100"><img src="https://skillicons.dev/icons?i=webpack" width="65" alt="Webpack"/><br><b>Webpack</b></td>
-      <td align="center" width="100"><img src="https://skillicons.dev/icons?i=npm" width="65" alt="NPM"/><br><b>NPM</b></td>
-    </tr>
-  </table>
-</div>
-
----
-
-## 📊 GitHub Stats & Analytics
-> Powered by automated GitHub Actions workflows
-
-### 📈 Performance Metrics (via stats.yml)
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Aditya-Maurya-101/Aditya-Maurya-101/stats-output/stats.svg" alt="GitHub Stats" />
-</div>
-
-### 🏆 Achievements & Trophies (via trophy.yml)
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Aditya-Maurya-101/Aditya-Maurya-101/trophy-output/trophy.svg" alt="GitHub Trophies" />
-</div>
-
-### 🐍 Contribution Snake Animation (via snake.yml)
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Aditya-Maurya-101&theme=tokyo-night&hide_border=false&area=true&color=61dafb&bg_color=0d1117&line=ff69b4&point=ffb6c1" alt="GitHub Snake Contribution" width="100%" />
-  <br/>
-  <sub>🐍 Live contribution snake animation (updates daily)</sub>
-</div>
-
----
-
-## 📫 Contact
+<!-- Snake Game Repo View -->
 
 <div align="center">
-  <a href="mailto:adityamaurya3366@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
-  <a href="https://linkedin.com/in/aditya-maurya-75a38b354"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://github.com/Aditya-Maurya-101"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
 </div>
 
----
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=alamimran613&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
-> "Code with clarity, build with purpose, and keep improving every day."
 
-```java
-while(!success) {
-  learn();
-  code();
-  build();
-  improve();
-}
-```
+# 💻 Tech Stack:
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![GithubPages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) ![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![AmazonDynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white) ![ApacheCassandra](https://img.shields.io/badge/cassandra-%231287B1.svg?style=for-the-badge&logo=apache-cassandra&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![ANSIBLE](https://img.shields.io/badge/ansible-%231A1918.svg?style=for-the-badge&logo=ansible&logoColor=white) ![APACHEKAFKA](https://img.shields.io/badge/apachekafka-231F20.svg?style=for-the-badge&logo=apachekafka&logoColor=white&color=%23231F20) ![AZUREDEVOPS](https://img.shields.io/badge/azuredevops-0078D7.svg?style=for-the-badge&logo=azuredevops&logoColor=white&color=%230078D7) ![CHEF](https://img.shields.io/badge/Chef-02303A.svg?style=for-the-badge&logo=Chef&logoColor=white&color=%23F09820) ![CIRCLECI](https://img.shields.io/badge/CIRCLECI-02303A.svg?style=for-the-badge&logo=CIRCLECI&logoColor=white&color=%23343434) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![ElasticSearch](https://img.shields.io/badge/-ElasticSearch-005571?style=for-the-badge&logo=elasticsearch) ![GRAFANA](https://img.shields.io/badge/grafana-F46800.svg?style=for-the-badge&logo=grafana&logoColor=white&color=%23F46800) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) ![PROMETHEUS](https://img.shields.io/badge/prometheus-E6522C.svg?style=for-the-badge&logo=prometheus&logoColor=white&color=%23E6522C) ![SONARQUBE](https://img.shields.io/badge/sonarqube-4E9BCD.svg?style=for-the-badge&logo=sonarqube&logoColor=white&color=%234E9BCD) ![Vagrant](https://img.shields.io/badge/vagrant-%231563FF.svg?style=for-the-badge&logo=vagrant&logoColor=white) ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white) ![Ansible](https://img.shields.io/badge/ansible-%231A1918.svg?style=for-the-badge&logo=ansible&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![ElasticSearch](https://img.shields.io/badge/-ElasticSearch-005571?style=for-the-badge&logo=elasticsearch) ![Gradle](https://img.shields.io/badge/Gradle-02303A.svg?style=for-the-badge&logo=Gradle&logoColor=white) ![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=Prometheus&logoColor=white) ![SonarQube](https://img.shields.io/badge/SonarQube-black?style=for-the-badge&logo=sonarqube&logoColor=4E9BCD) ![SonarLint](https://img.shields.io/badge/SonarLint-CB2029?style=for-the-badge&logo=SONARLINT&logoColor=white) ![TOR](https://img.shields.io/badge/tor-%237E4798.svg?style=for-the-badge&logo=tor-project&logoColor=white) ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white) ![Vagrant](https://img.shields.io/badge/vagrant-%231563FF.svg?style=for-the-badge&logo=vagrant&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=alamimran613&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)<br>
+![](https://github-readme-stats.vercel.app/api?username=alamimran613&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
+![](https://github-readme-streak-stats.herokuapp.com/?user=alamimran613&theme=dark&hide_border=false)
 
-### ⚡ Code • Learn • Build • Repeat
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ImranKhanYouTuber) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/alamimran613) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/ikyoutuber) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@technosnag) 
 
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=alamimran613&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
