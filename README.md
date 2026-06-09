@@ -128,7 +128,9 @@
 
 ### 🐍 Contribution Snake Animation (via snake.yml)
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Aditya-Maurya-101/Aditya-Maurya-101/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Aditya-Maurya-101&theme=tokyo-night&hide_border=false&area=true&color=61dafb&bg_color=0d1117&line=ff69b4&point=ffb6c1" alt="GitHub Snake Contribution" width="100%" />
+  <br/>
+  <sub>🐍 Live contribution snake animation (updates daily)</sub>
 </div>
 
 ---
