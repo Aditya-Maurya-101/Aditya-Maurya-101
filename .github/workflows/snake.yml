@@ -4,9 +4,14 @@ on:
   schedule:
     - cron: "0 0 * * *"  # Runs daily at midnight UTC
   workflow_dispatch:     # Manual trigger
+  push:
+    branches:
+      - main
 
 jobs:
   build:
+    permissions:
+      contents: write
     runs-on: ubuntu-latest
 
     steps:
