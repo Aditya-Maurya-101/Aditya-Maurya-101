@@ -114,33 +114,19 @@
 ---
 
 ## 📊 GitHub Stats & Analytics
+> Powered by automated GitHub Actions workflows
 
-### 📈 Performance Metrics
+### 📈 Performance Metrics (via stats.yml)
 <div align="center">
-  <a href="https://github.com/Aditya-Maurya-101">
-    <img height="200px" src="https://github-readme-stats.vercel.app/api?username=Aditya-Maurya-101&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&bg_color=0d1117&text_color=ffffff&border_color=30363d&locale=en" alt="GitHub Stats" />
-  </a>
-  <a href="https://github.com/Aditya-Maurya-101">
-    <img height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aditya-Maurya-101&layout=compact&theme=tokyonight&bg_color=0d1117&text_color=ffffff&border_color=30363d" alt="Top Languages" />
-  </a>
+  <img src="https://raw.githubusercontent.com/Aditya-Maurya-101/Aditya-Maurya-101/stats-output/stats.svg" alt="GitHub Stats" />
 </div>
 
-### 🔥 Contribution Streak
+### 🏆 Achievements & Trophies (via trophy.yml)
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=Aditya-Maurya-101&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D&background=0d1117&stroke=30363d&fire=ff69b4&currStreakNum=58edb1&sideNums=58edb1&sideLabels=ffffff&dates=ffffff" alt="GitHub Streak Stats" />
+  <img src="https://raw.githubusercontent.com/Aditya-Maurya-101/Aditya-Maurya-101/trophy-output/trophy.svg" alt="GitHub Trophies" />
 </div>
 
-### 🏆 Achievements & Trophies
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Aditya-Maurya-101&theme=tokyonight&no-frame=false&row=2&column=4&margin-w=15&margin-h=15" alt="GitHub Trophies" />
-</div>
-
-### 📅 Activity Graph & Contribution Timeline
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Aditya-Maurya-101&theme=tokyo-night&hide_border=false&area=true&color=61dafb&bg_color=0d1117&line=ff69b4&point=ffb6c1" alt="GitHub Activity Graph" />
-</div>
-
-### 🐍 Contribution Snake Animation
+### 🐍 Contribution Snake Animation (via snake.yml)
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Aditya-Maurya-101/Aditya-Maurya-101/output/github-contribution-grid-snake-dark.svg" />
